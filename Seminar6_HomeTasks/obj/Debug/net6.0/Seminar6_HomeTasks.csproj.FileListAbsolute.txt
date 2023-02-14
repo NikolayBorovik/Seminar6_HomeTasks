@@ -1,0 +1,15 @@
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\obj\Debug\net6.0\Seminar6_HomeTasks.csproj.AssemblyReference.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\obj\Debug\net6.0\Seminar6_HomeTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\obj\Debug\net6.0\Seminar6_HomeTasks.AssemblyInfoInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\obj\Debug\net6.0\Seminar6_HomeTasks.AssemblyInfo.cs
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\obj\Debug\net6.0\Seminar6_HomeTasks.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\bin\Debug\net6.0\Seminar6_HomeTasks.exe
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\bin\Debug\net6.0\Seminar6_HomeTasks.deps.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\bin\Debug\net6.0\Seminar6_HomeTasks.runtimeconfig.json
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\bin\Debug\net6.0\Seminar6_HomeTasks.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\bin\Debug\net6.0\Seminar6_HomeTasks.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\obj\Debug\net6.0\Seminar6_HomeTasks.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\obj\Debug\net6.0\refint\Seminar6_HomeTasks.dll
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\obj\Debug\net6.0\Seminar6_HomeTasks.pdb
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\obj\Debug\net6.0\Seminar6_HomeTasks.genruntimeconfig.cache
+C:\Users\Николай\Documents\1. Учеба\1. Geek Brains\Языки программирования\6 Seminar 6 C#\Seminar6_HomeTasks\obj\Debug\net6.0\ref\Seminar6_HomeTasks.dll
